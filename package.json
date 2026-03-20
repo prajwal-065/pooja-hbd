@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://prajwal-065.github.io/Pooja_Hbd",
+  "homepage": "https://prajwal-065.github.io/pooja-hbd",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
