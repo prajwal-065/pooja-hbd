@@ -19,7 +19,7 @@ const VALID_USER     = "Pooja";
 const VALID_PASS     = "Poojac@2603";
 const TOTAL_STEPS    = 6;
 const BIRTHDAY_MONTH = 2;   // 0-indexed → March (change to your month)
-const BIRTHDAY_DAY   = 14;  // change to Pooja's actual birthday day
+const BIRTHDAY_DAY   = 26;  // change to Pooja's actual birthday day
 
 /* Replace src values below with your own photo URLs or local paths
    e.g. src: "/photos/photo1.jpg"  (place photos in /public/photos/) */
